@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542594615693",
+    "firebase_url": "https://instaclone-b1437.firebaseio.com",
+    "project_id": "instaclone-b1437",
+    "storage_bucket": "instaclone-b1437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542594615693:android:5e18d778488fd39c1795c4",
+        "android_client_info": {
+          "package_name": "escovedo.com.instagram_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542594615693-pc6t0aerckdh9r5ujok43505nr0eidsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "escovedo.com.instagram_ui",
+            "certificate_hash": "02a0525442785a8f3316301b4cdb007aaf73f820"
+          }
+        },
+        {
+          "client_id": "542594615693-iqbq50f3bisdlo8b7cjaaafsee8pb13g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMhu1jaOM28KjyEe8x44MwjiBMoBPufs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542594615693-iqbq50f3bisdlo8b7cjaaafsee8pb13g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
